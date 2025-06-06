@@ -18,7 +18,7 @@ Filtered for clean, short, prefix-based sentence pairs to optimize alignment and
 - **Encoder**: GRU with embedding and dropout  
 - **Decoder**: GRU with additive attention and teacher forcing  
 - **Tokenization**: Custom vocabulary class with START/END tokens  
-
+![image](https://github.com/user-attachments/assets/a4d21c77-00ef-4e26-a697-2cb61e6e112f)
 ---
 
 ## 🎯 Sample Output
