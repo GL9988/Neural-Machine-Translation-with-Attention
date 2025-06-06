@@ -71,7 +71,7 @@ Worked closely with teammates to align logic, resolve tensor mismatches, and int
 
 ## ▶️ Run This Project  
 ```bash
-git clone https://github.com/yourusername/nmt-gru-attention.git
+git clone https://github.com/GL9988/Neural-Machine-Translation-with-Attention/blob/main/NLP%20Model.ipynb
 cd nmt-gru-attention
 pip install -r requirements.txt
 python train_model.py
