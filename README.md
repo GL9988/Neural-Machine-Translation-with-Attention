@@ -1,15 +1,17 @@
-### Neural Machine Translation with Attention (PyTorch)
+# Neural Machine Translation with Attention (PyTorch)
 
 This project builds a custom English-to-French machine translation system using a GRU-based encoder-decoder architecture with attention. The solution was implemented end-to-end in PyTorch, with interactive support from ChatGPT and DeepSeek to debug, design, and refine the entire pipeline.
 
+---
 
-🔧 Tools & Libraries
+## 🔧 Tools & Libraries
 - Python, PyTorch
 - Matplotlib, Seaborn, BLEU (nltk)
 - ChatGPT, DeepSeek (AI-assisted architecture clarification)
 
+---
 
-💡 Features
+## 💡 Features
 - Cleaned and normalized 18,000+ bilingual sentence pairs
 - Encoder-Decoder model using GRUs with additive attention
 - BLEU score evaluation and attention heatmap visualization
@@ -18,7 +20,7 @@ This project builds a custom English-to-French machine translation system using 
 
 ---
 
-🚀 How to Run
+## 🚀 How to Run
 ```bash
 # Clone the repository
 https://github.com/yourusername/nmt-attention-pytorch
