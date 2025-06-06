@@ -50,7 +50,7 @@ Tested the trained model on held-out sentences. Results below show high fluency 
 ## 📊 Visualization  
 
 <img width="680" alt="image" src="https://github.com/user-attachments/assets/41bcc2ee-8769-4fbe-bb11-5fe741f313fd" />
-<br><em>Attention heatmap: French input vs. English output</em>
+<br><em>Attention Heatmap - NMT Translation</em>
 </p>
 
 ---
