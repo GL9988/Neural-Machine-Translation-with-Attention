@@ -75,3 +75,6 @@ git clone https://github.com/GL9988/Neural-Machine-Translation-with-Attention/bl
 cd nmt-gru-attention
 pip install -r requirements.txt
 python train_model.py
+
+Due to GitHub file size limits, the dataset is compressed.  
+After cloning the repository, please unzip the `fra.zip` file
